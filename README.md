@@ -1,4 +1,3 @@
-# Cat playing with cursor
 
 Current requirements:
 - [ ] Cat will chase cursor around webpage
